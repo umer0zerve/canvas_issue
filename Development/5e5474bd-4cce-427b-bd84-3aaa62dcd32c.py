@@ -1,0 +1,1 @@
+print(player.columns)
